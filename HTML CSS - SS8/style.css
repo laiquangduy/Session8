@@ -1,0 +1,351 @@
+/* Bài 1: */
+/* .width-1 {
+    width: 750px;
+  }
+  h1{
+    color: #095990;
+  }
+.width-1 div {
+    background-color: #FEFAEE;
+    width: 750px;
+    border-left: 7px solid #DDCB5D;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding: 10px;
+  } */
+
+  /* Bài 2 : */
+
+.width-2{
+    width: 800px;
+}
+.title1 {
+    width: 730px;
+    border: 3px solid green;
+    background-position: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .kk {
+    width: 800px;
+    background-color: #e5e8ed;
+    border-left: 30px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .brow {
+    color: #7F3136;
+  }
+  .title {
+    color: #C02750;
+    background-color: #F5F5F5;
+    /* display: flex;
+    justify-content: center; */
+  }
+  .blue {
+    color: #161696;
+  }
+  .background {
+    background-color: #ffffff;
+    border-left: 5px solid #06AC6E;
+  }
+  .anvao {
+    background-color: #07ab6f;
+    border: 0px;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+  }
+.title2{
+    color: red;
+}
+
+
+
+ /* Bài 3: */
+/* 
+.blog-drama{
+    width: 460px;
+}
+
+.blog-drama img {
+    width: 100%;
+}
+
+.blog-drama h3 {
+    font-size: 26px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+} */
+
+/* Bài 4 */
+ /* .pic{
+    line-height: 194px;
+    width: 273px;
+    height: 194px;
+    background-color: #879097;
+    text-align: center;
+    color: #DAE3EA;
+ }
+
+ .card{
+    width: 251px;
+    height: 138px;
+    border: 1px solid #EBEBEB;
+    padding-left: 20px;
+    padding-top: 1px;
+
+ }
+
+ .card2{
+  width: 251px;
+  height: 1px;
+  border: 1px solid #EBEBEB;
+  padding-left: 20px;
+  padding-top: 1px;
+  padding-bottom: 50px;
+ } */
+
+ /* Bài 5: */
+
+/* .table{
+  width: 400px;
+  height: 15px;
+  background-color: #F7F7F7;
+  border: 1px solid #DEDEDE;
+  padding-left: 300px;
+  padding-bottom: 30px;
+}
+
+.table2{
+  width: 700px;
+  height: 150px;
+  border: 1px solid #DEDEDE;
+  text-align: center;
+}
+
+.table2 h3{
+  padding-right: 45px;
+}
+.table2 p {
+  padding-right: 43px;
+}
+
+.table2 button{
+  background-color: #317de1;
+  border-radius: 5px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 5px;
+  border: 1px ;
+  font-size: 15px;
+  width: 130px;
+  height: 40px;
+}
+ */
+
+/* bai7 */
+/* .title{
+    
+    border: 1px solid #e1e1e1;
+    width:500px;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.title2{
+    border-bottom:1px solid #e1e1e1;
+    width:100%;
+    
+    
+}
+.title3{
+    border-bottom: 1px solid #e1e1e1;
+    height:40px;
+    line-height: 40px;
+    text-align: center;
+}
+.title4{
+    height:60px;
+    text-align: right;
+    vertical-align: middle;
+    padding-right: 15px;
+    line-height: 60px;
+
+}
+
+.button{
+    padding:7px;
+    background-color: #0b6ffc;
+    color: white;
+    border:0px;
+    border-radius: 4px;
+} */
+
+/* bai8 */
+/* .title{
+    width: 650px;
+    border: 1px solid #e1e1e1;
+    border-radius: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+   
+}
+.title2{
+    width: 650px;
+    border-bottom: 1px solid #e1e1e1;
+    height: 50px;
+    line-height: 50px;
+    color:#1860DA;
+    background-color: #E8F2FF;
+    border-radius: 6px 6px 0px 0px;
+
+
+}
+.title3{
+    border-bottom: 1px solid #e1e1e1;
+    padding:15px;
+}
+.title4{
+    width: 650px;
+    border-bottom: 1px solid #e1e1e1;
+    height: 50px;
+    line-height: 50px;
+}
+.title5{
+    width: 650px;
+    border-bottom: 1px solid #e1e1e1;
+    height: 50px;
+    line-height: 50px;
+} */
+
+/* bai9 */
+/* .title{
+    width: 400px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.title1{
+    border-bottom: 1px solid #e1e1e1;
+    height:40px;
+    line-height: 40px;
+}
+.box{
+    border: 3px solid #007AFF;
+    border-radius: 7px;
+    border-right: 4.5px solid #007AFF;
+    background-color: #007AFF;
+    color: #007AFF;
+} */
+
+/* bai10 */
+/* .layout{
+    width: 286px;
+    height: 490px;
+    border: 2px solid #EAE8E8;
+    border-radius: 143px 143px 15px 15px;
+    padding: 15px;
+    padding-top:10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 410;
+}
+.layout2{
+    width: 285px;
+    height:300px;
+    background-color: #BF2628;
+    border-radius: 50% 50% 20px 20px;
+    position: relative;
+}
+.layout2 img{
+    width: 250px;
+    height: 250px;
+    position:absolute;
+    bottom: 0px;
+    
+} */
+
+/* bai11 */
+ /* .circle{
+   padding:10px;
+   text-align: center;
+   position:relative;
+} */
+
+/* Bài 6 */
+/* 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.list {
+    border: 1px solid rgb(228, 218, 218);
+    width: 500px;
+    margin-top: 10px; 
+    border-radius: 10px;
+}
+   
+.list-item .number {
+    background-color: #0570ff;
+    color: white;
+    
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 99px;
+    float: right;
+}
+.list .list-item{
+    padding:10px;
+}
+.list .list-item:first-child{
+    border-bottom: 1px solid rgb(231, 221, 221);
+}
+.list .list-item:last-child{
+    border-top: 1px solid rgb(228, 218, 218);
+}
+.list-item div:first-child{
+    margin-bottom: 10px solid rgb(243, 230, 230);
+}
+.list-item div:last-child{
+    margin-bottom: 1px solid black;
+}
+.list-item {
+    width: 500px;
+} */
+
+/* Bài 9 */
+
+/* .modal-box{
+    width: 500px;
+    border: 1px solid rgb(10, 6, 6);
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(125,114,114,0.75);
+    
+}
+.modal-box div:first-child{
+    border-bottom: 1px solid rgb(21, 13, 13);
+    padding: 10px;
+    
+}
+.modal-box div:last-child{
+    padding:10px;
+    
+}
+.modal-box div:first-child .right{
+    float: right;
+}
+
+.modal-box div:first-child .left .square{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-color:#047aff;
+    border-radius: 3px;
+} */
